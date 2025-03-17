@@ -1,0 +1,8 @@
+
+- alias: Example Automation
+  trigger:
+    platform: time
+    at: '08:00:00'
+  action:
+    service: light.turn_on
+    entity_id: light.living_room

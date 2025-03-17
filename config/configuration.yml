@@ -1,0 +1,5 @@
+homeassistant:
+  name: Home
+  latitude: !secret latitude
+  longitude: !secret longitude
+  unit_system: metric
