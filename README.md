@@ -1,5 +1,6 @@
 # Home Assistant Installation Guide
-![Home Assistant](https://www.home-assistant.io/images/favicon-50x50.png)
+
+<img src="https://www.home-assistant.io/images/favicon-192x192.png" alt="Home Assistant" width="48" height="48">
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/homeassistant/home-assistant)](https://hub.docker.com/r/homeassistant/home-assistant)
 [![GitHub stars](https://img.shields.io/github/stars/home-assistant/core)](https://github.com/home-assistant/core)
